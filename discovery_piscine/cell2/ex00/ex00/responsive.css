@@ -1,0 +1,57 @@
+
+table {
+    width: 100%;/*vw vh*/
+    margin: 0px;
+    border-collapse: collapse;
+    border: 2 px solid black;
+}
+td{
+    border: 2px solid black; 
+    padding: 50px;
+    text-align: center;
+    color:black
+
+}
+
+.casilla1 {
+    background-color: rgb(255, 0, 230);
+}
+
+.casilla2{
+    background-color: rgb(121, 237, 5);
+}
+
+/*html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+thead {
+    background-color: #f2f2f2;
+}
+
+tbody {
+    width: 100%;
+}
+
+@media (max-width: 600px) {
+    th, td {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+}*/
